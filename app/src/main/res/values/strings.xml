@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Manillas</string>
+    <string name="Manillas">manillas</string>
+    <string name="tipomaterial">Seleccione el tipo de material</string>
+    <string name="tipodije">Seleccione el tipo de dije</string>
+    <string name="tipo">¿Qué Tipo?</string>
+    <string-array name="Tipo">
+        <item>@string/Oro</item>
+        <item>@string/Oro Rosado</item>
+        <item>@string/Plata</item>
+        <item>@string/Niquel</item>
+    </string-array>
+</resources>
